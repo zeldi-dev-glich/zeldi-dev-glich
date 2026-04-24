@@ -12,52 +12,55 @@
   <p>
     <img src="https://img.shields.io/badge/OS-Windows_11-blue?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/badge/OS-Kali_Linux-blueviolet?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali"/>
-    <img src="https://img.shields.io/badge/Focus-Offensive_Security-red?style=flat-square" alt="Focus"/>
-    <img src="https://img.shields.io/badge/AI-Development-green?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
+    <img src="https://img.shields.io/badge/Gaming-Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white" alt="Valorant"/>
   </p>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Advanced Environments
-
+## 🎧 Currently Listening To
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,windows,kali,discord,visualstudio,vscode,mysql,git" alt="My Skills"/>
+  <a href="https://open.spotify.com/user/1">
+    <img src="https://novatorem-spotify.vercel.app/api/now-playing?uid=1&theme=tokyonight" alt="Spotify Now Playing" />
+  </a>
 </div>
 
-### 🧪 Security & Dev Environment
-* **Operating Systems:** Windows 11 (Main/Gaming) & Kali Linux (Pentesting).
-* **IDEs & Editors:** Visual Studio (C# / C++), Cursor & Windsurf (AI Coding), VS Code.
-* **Security Tools:** Wireshark, Nmap, Metasploit, Custom Payloads.
-* **Privacy:** Bitwarden, Mullvad VPN, Proton Mail.
+---
+
+## 🛠️ Tech Stack & Environments
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%"><b>Languages</b></td>
+      <td align="center" width="33%"><b>Operating Systems</b></td>
+      <td align="center" width="33%"><b>Tools & IDEs</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js" alt="Languages"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=windows,kali" alt="OS"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,git,discord" alt="Tools"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🚀 Projects & Research
-
-### 🔐 Security Research & Automation
-- **Telegram Bot System (C++)**: Developing high-performance bots for data management and key verification.
-- **Malware Analysis**: Researching threat patterns and defensive software architecture.
-
-### 🤖 AI Engineering
-- **Next-Gen Bots**: Integrating **Varden AI** and **Qoder** into Discord/Telegram automation.
-- **Workflow Optimization**: Leveraging **Windsurf** for rapid full-stack development.
+## 🔒 Security Lab & Projects
+- **Automation:** Advanced Telegram Bot System (C++) for secure data handling.
+- **Cyber Research:** Analyzing malware structures and hashing algorithms for educational purposes.
+- **Tools:** Metasploit, Wireshark, Nmap, Custom C# Security GUIs (WinForms).
+- **Privacy:** Proton Mail, Mullvad VPN, Bitwarden.
 
 ---
 
-## 📊 My Learning Path
-- 🛠 **Currently Learning:** Advanced C# WinForms & Malware Defense Strategies.
-- 🎯 **Goals:** Becoming a Full-Stack Security Engineer.
-- ⚡ **Activity:** Building secure, AI-powered tools for the community.
-
-**Skill Progress:**
-- **Cybersecurity / Pentesting** ![80%](https://geps.dev/progress/80)
-- **Backend Development (C++/C#)** ![75%](https://geps.dev/progress/75)
-- **AI Integration** ![55%](https://geps.dev/progress/55)
-
----
-
-## 📈 GitHub Stats
+## 📊 Performance & Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeldi-dev-glich&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeldi-dev-glich&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
@@ -76,5 +79,8 @@
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ by <b>Zeldicxn / Phantex</b></sub>
+  <br />
+  <img src="https://raw.githubusercontent.com/zeldi-dev-glich/zeldi-dev-glich/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <br />
+  <sub>"Code is secure when the mind is sharp."</sub>
 </div>
